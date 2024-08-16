@@ -47,9 +47,9 @@ svg{
     width: 13px;
     height: 13px;
 }
-   div + div{
+   /* div + div{
     margin-top: 30px;
-   }
+   } */
 
 html,
 body {
